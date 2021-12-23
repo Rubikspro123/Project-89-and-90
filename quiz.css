@@ -1,0 +1,8 @@
+#output{
+    background: lightseagreen;
+    border-radius: 10px;
+    border-top: 5px solid lightskyblue;
+    padding: 10px;
+    float:none;
+    text-align:left;
+}
